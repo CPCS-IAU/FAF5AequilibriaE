@@ -78,6 +78,7 @@ Networks/Geodatabase Format/FAF5Network.gdb
 ```
 
 The network data dictionary is available in `Networks/FAF5 Network Data Dictionary.pdf`.
+For move information see [here](https://ops.fhwa.dot.gov/freight/freight_analysis/faf/). 
 
 ## Project Structure
 
