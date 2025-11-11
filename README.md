@@ -72,7 +72,7 @@ The main analysis is performed in the Jupyter notebook `FAF5_AequilibraE_Analysi
 
 ### Network Data
 
-The FAF5 network data should be located in:
+The FAF5 network data can be downloaded from [here](https://ops.fhwa.dot.gov/freight/freight_analysis/faf/faf_highway_assignment_results/FAF5_Model_Highway_Network.zip) and should be extracted as:
 ```
 Networks/Geodatabase Format/FAF5Network.gdb
 ```
