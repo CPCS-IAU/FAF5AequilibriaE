@@ -25,7 +25,7 @@ The analysis generates interactive maps visualizing the network analysis results
 
 ## Features
 
-- **Network Loading**: Import FAF5 network from Geodatabase format (487,394 links and 974,788 nodes)
+- **Network Loading**: Import FAF5 network from Geodatabase format (487,384 links and 348,498 nodes)
 - **Path Computation**: Calculate shortest paths between OD pairs with detailed link-by-link information
 - **Route Choice Analysis**: Generate route choice sets using Breadth-First Search with Link Elimination (BFS-LE) algorithm
 - **Traffic Assignment**: Perform static traffic assignment using path-sized logit route choice model
